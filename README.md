@@ -4,11 +4,17 @@ A starter kit for building web components with [lit](https://lit.dev/).
 
 ## Start
 
+### Clone with degit
+
 ```bash
 npx degit byronogis/web-component-starter my-component
 cd my-component
 pnpm i
 ```
+
+### Github Template
+
+[Create a repo from this template on GitHub.](https://github.com/byronogis/web-component-starter/generate)
 
 ## Checklist
 
