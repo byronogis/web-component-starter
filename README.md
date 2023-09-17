@@ -18,8 +18,8 @@ pnpm i
 
 ## Checklist
 
-- Rename `web-component-starter`, `WebComponentStarter` with your component name.
-- Rename `src/components/WebComponentStarter.js` with your component name.
+- Change `web-component-starter`, `WebComponentStarter` with your component name.
+- Rename `packages/core/src/components/WebComponentStarter.js` with your component name.
 - Change the author name in LICENSE.
 - Clean up the READMEs.
 
@@ -27,7 +27,7 @@ pnpm i
 
 ### Multi-Component
 
-Add more components by creating new files in `src/components` and aggregating them in `src/components/index.js`.
+Add more components by creating new files in `packages/core/src/components` and aggregating them in `packages/core/src/components/index.js`.
 
 ### Development
 
